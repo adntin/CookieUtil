@@ -8,3 +8,5 @@ original javascript cookie
 ## articles:
 	1. http://php.js.cn/down/sample/cookie.html
 	2. http://php.js.cn/down/sample/cookie.html
+
+test
